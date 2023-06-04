@@ -1,0 +1,13 @@
+train:
+  image_dir: 'src/segmentation/data/train/images/'
+  mask_dir: 'src/segmentation/data/train/masks/'
+  num_epochs: 50
+  learning_rate: 0.001
+  batch_size: 4
+
+test:
+  image_dir: 'src/segmentation/data/test/images/'
+  mask_dir: 'src/segmentation/data/test/images/'
+  num_classes: 5
+  checkpoint_path: 'src/segmentation/models/saved_checkpoints/best_model.pth'
+  batch_size: 4
