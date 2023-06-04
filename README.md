@@ -78,6 +78,6 @@ To train the segmentation model, use the train.py script. This script takes care
 Adjust the training parameters in the script according to your specific requirements.
 
 ## Evaluation
-To evaluate the trained segmentation model, use the evaluate_model.py script. This script loads the trained model, evaluates it on the validation set, and prints the evaluation metrics.
+To evaluate the trained segmentation model, use the evaluate.py script. This script loads the trained model, evaluates it on the validation set, and prints the evaluation metrics.
 
-Adjust the evaluation parameters and metrics in the script as needed.# drone-ag-segmentation
+Adjust the evaluation parameters and metrics in the script as needed.
