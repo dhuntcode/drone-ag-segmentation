@@ -29,10 +29,10 @@ To set up the environment and install the required dependencies, follow these st
 
 1. Clone the repository:
 ```shell
-git clone https://github.com/dhuntcode/drone-ag-segmentation.git
+git clone https://github.com/dhuntcode/segmentation-example.git
 ```
 ```shell
-cd drone-ag-segmentation
+cd segmentation-example
 ```
 ```shell
 poetry install
