@@ -1,6 +1,6 @@
-# Drone Agricultural Segmentation
+# Example Segmentation
 
-This repository contains code and resources for training a segmentation model.  Take home test for DroneAG
+This repository contains code and resources for training a segmentation model.  
 
 ## Table of Contents
 - [Introduction](#introduction)
